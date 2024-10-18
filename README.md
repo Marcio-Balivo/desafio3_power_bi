@@ -1,4 +1,8 @@
 ## Desafio 3: Limpeza e transformação de _datasets_
+
+### Exemplo do relatório gerado a partir do tratamento dos dados
+![Relatório](https://github.com/Marcio-Balivo/desafio3_power_bi/blob/main/desafio3_Limpeza_Transforma%C3%A7%C3%A3o-1.png)
+
 ### Etapas da Limpeza e Transformação
 1. Ajustei o nome das colunas.
 2. Exclui as colunas de metadados.
@@ -33,3 +37,4 @@
 | Sem Supervisor | 1 |
 
 16. Exclui todas as colunas desnecessárias.
+
